@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{{ .Page.Params.description | default .Site.Params.description | markdownify }}">
@@ -13,9 +12,7 @@
 
 <link rel="canonical" href="{{ .Permalink }}">
 
-<body>
+
   <?php
   echo "sa";
   ?>
-</body>
-</html>
