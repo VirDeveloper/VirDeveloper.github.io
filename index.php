@@ -12,7 +12,15 @@
 
 <link rel="canonical" href="{{ .Permalink }}">
 
-
+<a
+                href="/Profile.html"
+                class="text-gray-600 hover:text-gray-900"
+                >Profile</a
+              >.<a
+                href="landing.html"
+                class="text-gray-600 hover:text-gray-900"
+                >Creative Tim</a
+              >.
   <?php
   echo "sa";
   ?>
