@@ -11,11 +11,8 @@
 
 <link rel="canonical" href="{{ .Permalink }}">
 
-{{ with .Params.robots -}}
-<meta name="robots" content="{{ . }}">
-{{- end }}
-
-{{ partial "stylesheet" . }}
-{{ partial "favicons" . }}
-{{ partial "social" . }}
-{{ partial "analytics" . }}
+<body>
+  <?php
+  echo "sa";
+  ?>
+</body>
