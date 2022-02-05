@@ -23,9 +23,10 @@
                 href="/Profile.html"
                 class="text-gray-600 hover:text-gray-900"
                 >Profile</a
-              >.<a
-                href="landing.html"
+              ><a
+                href="/landing.html"
                 class="text-gray-600 hover:text-gray-900"
-                >Creative Tim</a
-              >.</body>
+                >Landing</a
+              >
+  </body>
 </html>
